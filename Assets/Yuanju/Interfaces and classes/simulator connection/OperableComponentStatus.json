@@ -1,0 +1,99 @@
+{
+    "componentList": [
+        {
+            "name": "Pump Mode",
+            "status": 127,
+            "powerBlock": false
+        },
+        {
+            "name": "Resistance Group A",
+            "status": 1,
+            "powerBlock": false
+        },
+        {
+            "name": "Resistance Group B",
+            "status": 90,
+            "powerBlock": false
+        },
+        {
+            "name": "Resistance Group C",
+            "status": 1,
+            "powerBlock": false
+        },
+        {
+            "name": "Resistance Group D",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "SWITCH",
+            "status": 2,
+            "powerBlock": false
+        },
+        {
+            "name": "Red start handle",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "RESET",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "EMERGENCY",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvola intercettazione acqua",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvola di intercettazione alimentazione acqua",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvola scarico acqua",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvola intercettazione aspirazione pompa",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvola scarico vaschetta alimentazione acqua",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvole di esclusione del livello ottico 1",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvole di esclusione del livello ottico 2",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Valvola di scarico del livello ottico",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Presa vapore con valvola intercettazione",
+            "status": 0,
+            "powerBlock": false
+        },
+        {
+            "name": "Pressure Setpoint Display",
+            "status": 0,
+            "powerBlock": false
+        }
+    ]
+}
